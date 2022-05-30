@@ -2,7 +2,7 @@
 
 This generates a invoice for given items 
 
-## Demo
+## ✨ Demo
 
 Copy the code in `C Language` into a suitable IDE like [VisualStudio Code](https://code.visualstudio.com/) and open in the editor.
 
@@ -18,7 +18,7 @@ That's very easy scroll down to `50th Line` and you can found cgst. Also this in
 
 [![gst.jpg](https://i.postimg.cc/rpMq3Lf3/gst.jpg)](https://postimg.cc/0zXgKhR0)
 
-## Output
+## 💎 Output
 
 Generate `Invoice`:
 
@@ -78,10 +78,10 @@ You can enter `-y` to start again (or) `-n` to exit the `invoice-generator`
 
 
 
-## Contributing
+## 🎀 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Any further Updates are also welcomed.
 
 Please make sure to update tests as appropriate.
 
-## License
+## 🪀 License
 [MIT](https://choosealicense.com/licenses/mit/)
