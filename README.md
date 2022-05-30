@@ -1,6 +1,6 @@
 # Welcome to Restaurant Invoice Generator 👋
 
-This generates a invoice for given items 
+This generates a invoice for given items, follow the below steps to enjoy a modern `invoice-generator`. 
 
 ## ✨ Demo
 
