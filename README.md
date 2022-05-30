@@ -33,11 +33,13 @@ Enter `1` to generate new invoice
 1
 ```
 [![1.jpg](https://i.postimg.cc/xTcz6B89/1.jpg)](https://postimg.cc/dLc31HGf)
-Enter the Name of the Customer 
+
+Enter Name of the Customer 
 ```
 Karthik
 ```
 [![2.jpg](https://i.postimg.cc/DfDZw0fK/2.jpg)](https://postimg.cc/t73yrXVr)
+
 Enter Number of Items 
 ```
 2
