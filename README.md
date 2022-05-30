@@ -76,6 +76,7 @@ Final Output of `Invoice-generator`:
 
 You can enter `-y` to start again (or) `-n` to exit the `invoice-generator`
 
+You may also like to make a [ATM-Machine](https://github.com/thisiskarthikxd/ATM) which works itself and performs all types of tasks like `showing balance`, `deposit` and `withdraw funds`. [Check Here](https://github.com/thisiskarthikxd/ATM)
 
 
 ## 🎀 Contributing
